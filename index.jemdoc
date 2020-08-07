@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Mathieu BARRÉ- Home
+
+~~~
+{}{img_left}{photo.png}{Picture of me}{200}{250}{}
+
+I am currently a 2nd year PhD student working at [https://www.di.ens.fr DI ENS] and [https://www.inria.fr/fr/centre-inria-de-paris, INRIA]
+(in the [https://www.di.ens.fr/sierra/ SIERRA Team]), under the supervision of [https://www.di.ens.fr/~aspremon/ Alexandre d'Aspremont].
+\n
+
+I'm focusing on convex optimization problems and algorithms with a particular interest for adaptive methods and their complexity guarantees. I also have interest in compressed
+sensing and optimal transport problem.\n
+
+Here is a short [cvbarre.pdf resume] and my [research.html list of publications].
+~~~
+
+== Contact
+~~~
+Email: mathieu \[dot\] barre AT inria \[dot\] fr\n
+~~~
