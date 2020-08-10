@@ -5,14 +5,14 @@
 
 
 - 2020
--- TODO  
-     
-
+--  *Principled Analyses and Design of First-Order Methods with Inexact Proximal Operators*. Preprint. Joint work with [https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [https://www.di.ens.fr/~fbach/ Francis Bach]. ([https://arxiv.org/abs/2006.06041.pdf pdf])([https://github.com/mathbarre/InexactProximalOperators codes])
+--  *Complexity Guarantees for Polyak Steps with Momentum*. Conference on Learning Theory (COLT) 2020. Joint work with [https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/2002.00915.pdf pdf])([https://github.com/mathbarre/PerformanceEstimationPolyakSteps codes])     
 
 - 2018
---   TODO
+--  *M\*-Regularized Dictionary Learning*. Preprint. Joint work with [https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/1810.02748.pdf pdf])
 
 
-== Slides
+== Presentations
 
--    TODO
+-  *Complexity Guarantees for Polyak Steps with Momentum*. Conference on Learning Theory (COLT) 2020. ([./pres/long_colt20.pdf slides])([http://learningtheory.org/colt2020/virtual/papers/paper_145.html video])
+-  *M\* proxy for the Sparse Recovery Threshold*. [https://fgs-2019.sciencesconf.org/ French-German-Swiss 2019] optimization conference in Nice. ([./pres/pres_FGS19.pdf slides])
