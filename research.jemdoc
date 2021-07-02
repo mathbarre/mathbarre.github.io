@@ -3,21 +3,24 @@
 
 == Papers
 
+- 2021
+-- *A note on approximate accelerated forward-backward methods with absolute and relative errors, and possibly strongly convex objectives* Preprint. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~fbach/ Francis Bach]. ([https://arxiv.org/pdf/2106.15536.pdf pdf])([https://github.com/mathbarre/InexactStronglyConvexForwardBackward codes])
+
 
 - 2020
--- *Convergence of Constrained Anderson Acceleration*. Preprint. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont].([https://arxiv.org/pdf/2010.15482.pdf pdf])
--- *Averaging Atmospheric Gas Concentration Data using Wasserstein Barycenters*. Preprint. Joint work with  [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont], Clément Giron and Matthieu Mazzolini from [\/https://www.kayrros.com/ Kayrros]. ([https://arxiv.org/pdf/2010.02762.pdf pdf])
---  *Principled Analyses and Design of First-Order Methods with Inexact Proximal Operators*. Preprint. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~fbach/ Francis Bach]. ([https://arxiv.org/pdf/2006.06041.pdf pdf])([https://github.com/mathbarre/InexactProximalOperators codes])
---  *Complexity Guarantees for Polyak Steps with Momentum*. Conference on Learning Theory (COLT) 2020. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/2002.00915.pdf pdf])([https://github.com/mathbarre/PerformanceEstimationPolyakSteps codes])     
+-- *Convergence of constrained Anderson acceleration*. Preprint. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont].([ComplexityBoundsRNA.pdf pdf])([https://github.com/mathbarre/ConstrainedAndersonAcceleration codes])
+-- *Averaging atmospheric gas concentration data using Wasserstein barycenters*. Preprint. Joint work with  [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont], Clément Giron and Matthieu Mazzolini from [\/https://www.kayrros.com/ Kayrros]. ([https://arxiv.org/pdf/2010.02762.pdf pdf])
+--  *Principled analyses and design of first-order methods with inexact proximal operators*. Preprint. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~fbach/ Francis Bach]. ([https://arxiv.org/pdf/2006.06041.pdf pdf])([https://github.com/mathbarre/InexactProximalOperators/tree/version-2 codes])
+--  *Complexity guarantees for Polyak steps with momentum*. Conference on Learning Theory (COLT) 2020. Joint work with [\/https://www.di.ens.fr/~ataylor/ Adrien Taylor] and [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/2002.00915.pdf pdf])([https://github.com/mathbarre/PerformanceEstimationPolyakSteps codes])     
 
 - 2018
---  *An M\∗ Proxy for Sparse Recovery Performance*. Preprint. Joint work with [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/1810.02748.pdf pdf])
+--  *An M\∗ proxy for sparse recovery performance*. Preprint. Joint work with [\/https://www.di.ens.fr/~aspremon/  Alexandre d'Aspremont]. ([https://arxiv.org/pdf/1810.02748.pdf pdf])
 
 
 == Presentations
 
--  *Complexity Guarantees for Polyak Steps with Momentum*. Conference on Learning Theory (COLT) 2020. ([./pres/long_colt20.pdf slides])([http://learningtheory.org/colt2020/virtual/papers/paper_145.html video])
--  *M\* proxy for the Sparse Recovery Threshold*. [\/https://fgs-2019.sciencesconf.org/ French-German-Swiss 2019] optimization conference in Nice. ([./pres/pres_FGS19.pdf slides])
+-  *Complexity guarantees for Polyak steps with momentum*. Conference on Learning Theory (COLT) 2020. ([./pres/long_colt20.pdf slides])([http://learningtheory.org/colt2020/virtual/papers/paper_145.html video])
+-  *M\* proxy for the sparse recovery threshold*. [\/https://fgs-2019.sciencesconf.org/ French-German-Swiss 2019] optimization conference in Nice. ([./pres/pres_FGS19.pdf slides])
 
 == Reviewing
 
