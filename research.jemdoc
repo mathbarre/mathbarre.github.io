@@ -19,7 +19,7 @@
 
 == Presentations
 
--  *Principled analyses and design of first-order methods with inexact proximal operators*. International workshop on continuous optimization EUROPT 2021. ([./pres/europt21.pdf slides])
+-  *Principled analyses and design of first-order methods with inexact proximal operators*. [https://europt2021.recherche.enac.fr/ International workshop on continuous optimization EUROPT 2021]. ([./pres/europt21.pdf slides])
 -  *Complexity guarantees for Polyak steps with momentum*. Conference on Learning Theory (COLT) 2020. ([./pres/long_colt20.pdf slides])([http://learningtheory.org/colt2020/virtual/papers/paper_145.html video])
 -  *M\* proxy for the sparse recovery threshold*. [\/https://fgs-2019.sciencesconf.org/ French-German-Swiss 2019] optimization conference in Nice. ([./pres/pres_FGS19.pdf slides])
 
